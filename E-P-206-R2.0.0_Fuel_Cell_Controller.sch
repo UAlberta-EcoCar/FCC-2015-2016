@@ -13688,6 +13688,7 @@ FCC BOARD CONNECTOR 7 AND 8</text>
 <wire x1="218.44" y1="33.02" x2="241.3" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="LED2" gate="G$1" pin="C"/>
 <wire x1="241.3" y1="33.02" x2="241.3" y2="38.1" width="0.1524" layer="91"/>
+<label x="218.44" y="33.02" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="MOTORREL_R" class="0">
@@ -13697,6 +13698,7 @@ FCC BOARD CONNECTOR 7 AND 8</text>
 <wire x1="304.8" y1="33.02" x2="327.66" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="LED3" gate="G$1" pin="C"/>
 <wire x1="327.66" y1="33.02" x2="327.66" y2="35.56" width="0.1524" layer="91"/>
+<label x="304.8" y="33.02" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="RESREL_R" class="0">
@@ -13706,6 +13708,7 @@ FCC BOARD CONNECTOR 7 AND 8</text>
 <wire x1="457.2" y1="33.02" x2="480.06" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="LED5" gate="G$1" pin="C"/>
 <wire x1="480.06" y1="35.56" x2="480.06" y2="33.02" width="0.1524" layer="91"/>
+<label x="457.2" y="33.02" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -13938,6 +13941,7 @@ FCC BOARD CONNECTOR 7 AND 8</text>
 <wire x1="378.46" y1="33.02" x2="401.32" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="LED4" gate="G$1" pin="C"/>
 <wire x1="401.32" y1="33.02" x2="401.32" y2="35.56" width="0.1524" layer="91"/>
+<label x="378.46" y="33.02" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="SUPPLYVLV_V_R" class="0">
